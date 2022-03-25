@@ -2,6 +2,7 @@
 
 Computer Science and Information Technology Professionals are being employed in many diverse areas of Science. In this project are focusing on Bioinformatics and the 
 knowledge and skills to understand and participate in this field of research or as an advance step to greater employment opportunities. This project will clarify the fundamentals of Bioinformatics from the end user perspective and will allow us to participate in information gathering.
+I answered the following questions in the project:
 
 Question 1:
 A) Describe two ways in which big data analytics changed the way we study human
@@ -20,9 +21,7 @@ We will investigate COVID-19 sequence regarding the current virus we are fightin
 Note: A virus is a shell of fat with a RNA sequence inside. Once it attaches itself to it’s
 host (A human’s cell for example) it inserts its RNA into the cell and the cell begins 
 replicating (translating) the virus’s RNA sequence. The researches at NCBI have transcribe 
-this RNA sequence back to DNA to extract more information. Therefore the follow sequences are DNA sequences.
-
-I answered the following questions: 
+this RNA sequence back to DNA to extract more information. Therefore the follow sequences are DNA sequences. 
 
 2.1 NCBI Gene Database
 Use the NCBI Gene Database to investigate the COVID-19 virus for Homo sapiens. We will 
